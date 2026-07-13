@@ -11,18 +11,18 @@ fecha: 2026-07-13
 creado: 2026-07-13T12:28:57
 ---
 
-# 🎓 [[INTELIGENCIA ARTIFICIAL 1]] — Evolución Curricular, Machine Learning vs. Data Science y el Panorama de la IA Moderna
+# [[INTELIGENCIA ARTIFICIAL 1]] — Evolución Curricular, Machine Learning vs. Data Science y el Panorama de la IA Moderna
 
-> **📅 Fecha:** 2026-07-13 | **⏱️ Duración / Tipo:** Clase Magistral | **🏫 Curso:** [[INTELIGENCIA ARTIFICIAL 1]]
+> **Fecha:** 2026-07-13 | **Duración / Tipo:** Clase Magistral | **Curso:** [[INTELIGENCIA ARTIFICIAL 1]]
 
 ---
 
-## 📌 Resumen Ejecutivo
+## Resumen Ejecutivo
 La sesión inaugural y de presentación del curso de [[INTELIGENCIA ARTIFICIAL 1]] a cargo del Ing. Luis Fernando Espino Barrios se centró en explicar la estructura y evaluación de la materia (3 exámenes parciales mensuales), así como los fundamentos y motivaciones detrás de la reciente evolución curricular en la carrera de Ingeniería en Sistemas de la USAC. Se analizó la transición hacia el nuevo pensum (destacando la integración obligatoria de [[Machine Learning]] y [[Data Science]], y la transformación del curso de Compiladores 2 en Ciencia de Datos), se profundizó en las razones técnicas del desfase de 85 años entre la invención teórica de las [[Redes Neuronales]] y su auge moderno impulsado por el procesamiento masivo en [[GPUs]] mediante [[CUDA]], y se examinó el panorama competitivo actual entre modelos occidentales y orientales como [[DeepSeek]], los costos operativos por tokens y las estrictas políticas de ciberseguridad en el uso de [[Agentes de IA]] a nivel corporativo e institucional.
 
 ---
 
-## 📖 Desarrollo Académico por Secciones
+## Desarrollo Académico por Secciones
 
 ### 1. Estructura del Curso y Evaluación Académica
 - **Catedrático a Cargo:** Ing. Luis Fernando Espino Barrios.
@@ -113,7 +113,7 @@ La sesión inaugural y de presentación del curso de [[INTELIGENCIA ARTIFICIAL 1
 
 ---
 
-## 💡 Fórmulas, Sintaxis o Puntos Clave
+## Fórmulas, Sintaxis o Puntos Clave
 
 ### 1. Comparativa Conceptual: Pipeline de Machine Learning vs. Data Science
 ```text
@@ -145,13 +145,13 @@ La sesión inaugural y de presentación del curso de [[INTELIGENCIA ARTIFICIAL 1
 
 ---
 
-## 🎯 Conclusiones y Síntesis Final
+## Conclusiones y Síntesis Final
 - **Punto de anclaje 1:** La evolución moderna de la Inteligencia Artificial ha transitado desde décadas de latencia teórica en redes neuronales hacia una explosión de aplicaciones prácticas e implementaciones con agentes autónomos, catalizada directamente por la potencia de cálculo en paralelo de las GPUs y bibliotecas como CUDA.
 - **Punto de anclaje 2:** En concordancia con las demandas del mercado tecnológico actual, el nuevo pensum de la carrera de Ingeniería en Sistemas consolida una sólida línea curricular de tres cursos ([[INTELIGENCIA ARTIFICIAL 1]], Inteligencia Artificial 2 y [[Data Science]]), mientras que para las generaciones actuales se asegura un dominio exhaustivo de [[Machine Learning]] dentro del presente curso para su exitosa inserción laboral y toma de decisiones éticas y de ciberseguridad corporativa.
 
 ---
 
-## 🚨 Fechas, Tareas, Exámenes y Anuncios Obligatorios
+## Fechas, Tareas, Exámenes y Anuncios Obligatorios
 > [!IMPORTANT]
 > **Consolidación de Recordatorios y Actividades Pendientes**
 
@@ -161,7 +161,7 @@ La sesión inaugural y de presentación del curso de [[INTELIGENCIA ARTIFICIAL 1
 
 ---
 
-## 🔗 Reglas y Conexiones de la Bóveda Obsidian
+## Reglas y Conexiones de la Bóveda Obsidian
 - Conceptos y Materias Clave enlazadas automáticamente: [[INTELIGENCIA ARTIFICIAL 1]], [[Machine Learning]], [[Data Science]], [[Redes Neuronales]], [[GPUs]], [[CUDA]], [[NVIDIA]], [[DeepSeek]], [[LLMs]], [[Agentes de IA]], [[SAT]], [[DBMS]].
 
 ---
