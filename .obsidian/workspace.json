@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3386be369b70922d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb5b5df9826146d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70736691b7250459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c88bc60a0122e4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6de327099e9497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993e444b0d213516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "968c42af32f09c0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "96bbd5fa5ef255c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b14842381ffebfd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "03fc6c1a6784944b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da71a375d8f6d549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d0337edbdfbd0780",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "06b75ce68b3eeb41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7fb46a7da0f10068",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ce55cd7242a2e49e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "70736691b7250459",
+  "lastOpenFiles": [
+    "PROMPT_ANTIGRAVITY_RESUMEN.md",
+    "INTELIGENCIA ARTIFICIAL 1/PROMPT_ANTIGRAVITY_RESUMEN.md",
+    "INTELIGENCIA ARTIFICIAL 1/_Índice - INTELIGENCIA ARTIFICIAL 1.md",
+    "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
+    "INTELIGENCIA ARTIFICIAL 1/Clase Magistral",
+    "INTELIGENCIA ARTIFICIAL 1",
+    "Curso General/Clase Magistral/2026-07-13 - 1. Título Descriptivo y Formal.md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/_Índice - ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-13 - 1..md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2",
+    "Curso General/_Índice - Curso General.md",
+    "Curso General/Clase Magistral",
+    "Curso General",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_Primer Tema.md",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_.md",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Sesión de SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
+    "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
+    "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
+    "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio",
+    "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1",
+    "Sin título.canvas"
+  ]
+}
