@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5a458a26c5aa19",
+        "id": "5bfeb895fb5bdb28",
         "type": "tabs",
         "children": [
           {
-            "id": "92a3533960e24867",
+            "id": "93bdfc13782999e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,15 +176,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "92a3533960e24867",
+  "active": "93bdfc13782999e2",
   "lastOpenFiles": [
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
+    "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-14 - Sesión del 13_7_2026.md",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1",
     "PROMPT_ANTIGRAVITY_RESUMEN.md",
     "INTELIGENCIA ARTIFICIAL 1/_Índice - INTELIGENCIA ARTIFICIAL 1.md",
-    "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
     "INTELIGENCIA ARTIFICIAL 1/PROMPT_ANTIGRAVITY_RESUMEN.md",
     "INTELIGENCIA ARTIFICIAL 1/Clase Magistral",
     "INTELIGENCIA ARTIFICIAL 1",
