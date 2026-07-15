@@ -4,8 +4,8 @@ tags:
   - USAC
   - devschedule
   - indice_curso
-creado: 2026-07-14
-actualizado: 2026-07-14T10:40:46
+creado: 2026-07-15
+actualizado: 2026-07-15T08:50:54
 ---
 
 # Índice General de Apuntes: MODELACION Y SIMULACION 1
@@ -16,10 +16,10 @@ actualizado: 2026-07-14T10:40:46
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **1**
-- **Clases Magistrales:** 1
+- **Total de Sesiones Registradas:** **2**
+- **Clases Magistrales:** 2
 - **Laboratorios / Prácticas:** 0
-- **Última Sesión Registrada:** [[Clase Magistral/2026-07-14 - Sesión de MODELACION Y SIMULACION 1|Sesión de MODELACION Y SIMULACION 1 (2026-07-14)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1|Sesión de MODELACION Y SIMULACION 1 (2026-07-15)]]
 
 ---
 
@@ -27,7 +27,8 @@ actualizado: 2026-07-14T10:40:46
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **1** | 2026-07-14 | `#Clase_Magistral` | **Sesión de MODELACION Y SIMULACION 1** | Selección crítica de distribuciones de probabilidad, validez y credibilidad de modelos en Simio, e introducción al curso | [[Clase Magistral/2026-07-14 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
+| **2** | 2026-07-15 | `#Clase_Magistral` | **Sesión de MODELACION Y SIMULACION 1** | — | [[Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
+| **1** | 2026-07-14 | `#Clase_Magistral` | **Fundamentos de Simulación, Selección de Distribuciones y Validación de Modelos** | — | [[Clase Magistral/2026-07-14 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
 
 ---
 
