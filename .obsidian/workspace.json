@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bfeb895fb5bdb28",
+        "id": "eac8143c4446aadb",
         "type": "tabs",
         "children": [
           {
-            "id": "93bdfc13782999e2",
+            "id": "c21cecc860ae0e91",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "93bdfc13782999e2",
+  "active": "c21cecc860ae0e91",
   "lastOpenFiles": [
+    "SEMINARIO DE SISTEMAS I/Laboratorio/2026-07-15 - Sesión del 14_7_2026.md",
+    "SEMINARIO DE SISTEMAS I/_Índice - SEMINARIO DE SISTEMAS I.md",
+    "SEMINARIO DE SISTEMAS I/Laboratorio",
+    "SEMINARIO DE SISTEMAS I",
+    "Lab SEMINARIO DE SISTEMAS I/Laboratorio/2026-07-15 - Sesión del 14_7_2026.md",
+    "Lab SEMINARIO DE SISTEMAS I/_Índice - Lab SEMINARIO DE SISTEMAS I.md",
+    "Lab SEMINARIO DE SISTEMAS I/Laboratorio",
+    "Lab SEMINARIO DE SISTEMAS I",
+    "REDES DE COMPUTADORAS 2/Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2.md",
+    "REDES DE COMPUTADORAS 2/_Índice - REDES DE COMPUTADORAS 2.md",
+    "REDES DE COMPUTADORAS 2/Clase Magistral",
+    "REDES DE COMPUTADORAS 2",
     "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-14 - Sesión del 13_7_2026.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
@@ -191,14 +203,9 @@
     "Curso General/Clase Magistral/2026-07-13 - 1. Título Descriptivo y Formal.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/_Índice - ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-13 - 1..md",
-    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral",
-    "ANALISIS Y DISEÑO DE SISTEMAS 2 2",
     "Curso General/_Índice - Curso General.md",
-    "Curso General/Clase Magistral",
-    "Curso General",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_Primer Tema.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Sesión de SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
     "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
