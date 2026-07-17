@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8451f3aa20183023",
+        "id": "12327e6ae06f2e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "babc6505c42ff802",
+            "id": "793da5ca00a2871c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "babc6505c42ff802",
+  "active": "793da5ca00a2871c",
   "lastOpenFiles": [
-    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-16 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
+    "Sin título.canvas",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/_Índice - ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-16 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
+    "REDES DE COMPUTADORAS 2/Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2.md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Laboratorio/2026-07-17 - Sesión del 16_7_2026.md",
+    "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Laboratorio",
     "MODELACION Y SIMULACION 1/Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1.md",
     "MODELACION Y SIMULACION 1/Clase Magistral/MODELACION Y SIMULACION 1 - Gestión de Incertidumbre y Gemelos Digitales (Apuntes Limpios).md",
     "SEMINARIO DE SISTEMAS I/Laboratorio/2026-07-15 - Sesión del 14_7_2026.md",
@@ -203,15 +207,12 @@
     "INTELIGENCIA ARTIFICIAL 1/_Índice - INTELIGENCIA ARTIFICIAL 1.md",
     "INTELIGENCIA ARTIFICIAL 1/PROMPT_ANTIGRAVITY_RESUMEN.md",
     "INTELIGENCIA ARTIFICIAL 1/Clase Magistral",
-    "INTELIGENCIA ARTIFICIAL 1",
     "Curso General/Clase Magistral/2026-07-13 - 1. Título Descriptivo y Formal.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-13 - 1..md",
     "Curso General/_Índice - Curso General.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_Primer Tema.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_.md",
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Sesión de SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
-    "Lab SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-12 - Título_.md",
-    "Sin título.canvas"
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Sesión de SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md"
   ]
 }
