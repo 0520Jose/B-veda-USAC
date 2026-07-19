@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-15T20:26:57
+actualizado: 2026-07-17T07:29:46
 ---
 
 # Índice General de Apuntes: SEMINARIO DE SISTEMAS I
@@ -19,7 +19,7 @@ actualizado: 2026-07-15T20:26:57
 - **Total de Sesiones Registradas:** **1**
 - **Clases Magistrales:** 0
 - **Laboratorios / Prácticas:** 1
-- **Última Sesión Registrada:** [[Laboratorio/2026-07-15 - Sesión del 14_7_2026|Sesión del 14/7/2026 (2026-07-15)]]
+- **Última Sesión Registrada:** [[Laboratorio/2026-07-15 - Sesión del 14_7_2026|Introducción a la Computación en la Nube y Planificación del Laboratorio (2026-07-15)]]
 
 ---
 
@@ -27,7 +27,7 @@ actualizado: 2026-07-15T20:26:57
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **1** | 2026-07-15 | `#Laboratorio` | **Introducción a Cloud Computing y Planificación** | Introducción al laboratorio de Seminario de Sistemas I, temario sobre Cloud Computing (AWS/Azure/GCP), diagnóstico técnico (IAM, EC2, Docker, Serverless) y logística de calificación presencial. | [[Laboratorio/2026-07-15 - Sesión del 14_7_2026\|Ver Apunte]] |
+| **1** | 2026-07-15 | `#Laboratorio` | **Introducción a la Computación en la Nube y Planificación del Laboratorio** | — | [[Laboratorio/2026-07-15 - Sesión del 14_7_2026\|Ver Apunte]] |
 
 ---
 

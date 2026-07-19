@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12327e6ae06f2e3d",
+        "id": "6837d011c1f7ceec",
         "type": "tabs",
         "children": [
           {
-            "id": "793da5ca00a2871c",
+            "id": "9a08b0f6795255be",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -176,8 +176,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "793da5ca00a2871c",
+  "active": "9a08b0f6795255be",
   "lastOpenFiles": [
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-14 - Sesión del 13_7_2026.md",
+    "MODELACION Y SIMULACION 1/Laboratorio/2026-07-18 - Sesión del 17_7_2026.md",
+    "MODELACION Y SIMULACION 1/Laboratorio",
+    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
     "Sin título.canvas",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/_Índice - ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-16 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2.md",
@@ -199,14 +203,11 @@
     "REDES DE COMPUTADORAS 2/Clase Magistral",
     "REDES DE COMPUTADORAS 2",
     "INTELIGENCIA ARTIFICIAL 1/Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1.md",
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-14 - Sesión del 13_7_2026.md",
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/_Índice - SISTEMAS ORGANIZACIONALES Y GERENCIALES 1.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1",
     "PROMPT_ANTIGRAVITY_RESUMEN.md",
     "INTELIGENCIA ARTIFICIAL 1/_Índice - INTELIGENCIA ARTIFICIAL 1.md",
     "INTELIGENCIA ARTIFICIAL 1/PROMPT_ANTIGRAVITY_RESUMEN.md",
-    "INTELIGENCIA ARTIFICIAL 1/Clase Magistral",
     "Curso General/Clase Magistral/2026-07-13 - 1. Título Descriptivo y Formal.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-13 - 1..md",
     "Curso General/_Índice - Curso General.md",

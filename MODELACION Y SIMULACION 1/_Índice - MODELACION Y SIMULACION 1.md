@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-15T08:50:54
+actualizado: 2026-07-17T07:29:46
 ---
 
 # Índice General de Apuntes: MODELACION Y SIMULACION 1
@@ -16,10 +16,10 @@ actualizado: 2026-07-15T08:50:54
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **2**
+- **Total de Sesiones Registradas:** **3**
 - **Clases Magistrales:** 2
-- **Laboratorios / Prácticas:** 0
-- **Última Sesión Registrada:** [[Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1|Sesión de MODELACION Y SIMULACION 1 (2026-07-15)]]
+- **Laboratorios / Prácticas:** 1
+- **Última Sesión Registrada:** [[Laboratorio/2026-07-18 - Sesión del 17_7_2026|Sesión del 17/7/2026 (2026-07-18)]]
 
 ---
 
@@ -27,7 +27,8 @@ actualizado: 2026-07-15T08:50:54
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **2** | 2026-07-15 | `#Clase_Magistral` | **Sesión de MODELACION Y SIMULACION 1** | — | [[Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
+| **3** | 2026-07-18 | `#Laboratorio` | **Sesión del 17/7/2026** | — | [[Laboratorio/2026-07-18 - Sesión del 17_7_2026\|Ver Apunte]] |
+| **2** | 2026-07-15 | `#Clase_Magistral` | **Gestión de Incertidumbre, Gemelos Digitales, Componentes del Sistema y Análisis del Entorno Exógeno** | — | [[Clase Magistral/2026-07-15 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
 | **1** | 2026-07-14 | `#Clase_Magistral` | **Fundamentos de Simulación, Selección de Distribuciones y Validación de Modelos** | — | [[Clase Magistral/2026-07-14 - Sesión de MODELACION Y SIMULACION 1\|Ver Apunte]] |
 
 ---

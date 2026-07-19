@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-15T18:23:29
+actualizado: 2026-07-17T07:29:46
 ---
 
 # Índice General de Apuntes: REDES DE COMPUTADORAS 2
@@ -19,7 +19,7 @@ actualizado: 2026-07-15T18:23:29
 - **Total de Sesiones Registradas:** **2**
 - **Clases Magistrales:** 2
 - **Laboratorios / Prácticas:** 0
-- **Última Sesión Registrada:** [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2|Sesión de REDES DE COMPUTADORAS 2 (2026-07-16)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2|Protocolos de Enrutamiento, Modelo OSI, TCP/UDP y Diagnóstico por Capas (2026-07-16)]]
 
 ---
 
@@ -27,8 +27,8 @@ actualizado: 2026-07-15T18:23:29
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **2** | 2026-07-16 | `#Clase_Magistral` | **Protocolos de Enrutamiento, Modelo OSI, TCP/UDP y Diagnóstico por Capas** | Análisis técnico del Modelo OSI y sus 7 capas, diferenciación entre TCP y UDP, ruteo dinámico (RIP, OSPF) y metodología de laboratorio en Cisco Packet Tracer. | [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
-| **1** | 2026-07-15 | `#Clase_Magistral` | **Introducción y Repaso del Modelo OSI** | Introducción al curso, metodología de laboratorios y repaso panorámico de las 7 capas del Modelo OSI, segmentación por VLANs, ruteo y ciberseguridad. | [[Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
+| **2** | 2026-07-16 | `#Clase_Magistral` | **Protocolos de Enrutamiento, Modelo OSI, TCP/UDP y Diagnóstico por Capas** | — | [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
+| **1** | 2026-07-15 | `#Clase_Magistral` | **Introducción al Curso y Repaso del Modelo OSI** | — | [[Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
 
 ---
 

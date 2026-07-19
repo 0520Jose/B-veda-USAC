@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-14
-actualizado: 2026-07-14T07:10:50
+actualizado: 2026-07-17T07:29:46
 ---
 
 # Índice General de Apuntes: SISTEMAS ORGANIZACIONALES Y GERENCIALES 1
