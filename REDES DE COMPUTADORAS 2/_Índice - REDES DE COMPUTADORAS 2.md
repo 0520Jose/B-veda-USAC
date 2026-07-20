@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-17T07:29:46
+actualizado: 2026-07-20T05:33:44
 ---
 
 # Índice General de Apuntes: REDES DE COMPUTADORAS 2

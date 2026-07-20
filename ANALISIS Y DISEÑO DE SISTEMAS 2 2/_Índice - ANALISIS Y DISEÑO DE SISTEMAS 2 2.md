@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-17
-actualizado: 2026-07-17T07:29:46
+actualizado: 2026-07-20T05:33:44
 ---
 
 # Índice General de Apuntes: ANALISIS Y DISEÑO DE SISTEMAS 2 2

@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-14
-actualizado: 2026-07-17T07:29:46
+actualizado: 2026-07-20T10:41:00
 ---
 
 # Índice General de Apuntes: INTELIGENCIA ARTIFICIAL 1
@@ -16,10 +16,10 @@ actualizado: 2026-07-17T07:29:46
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **1**
-- **Clases Magistrales:** 1
+- **Total de Sesiones Registradas:** **2**
+- **Clases Magistrales:** 2
 - **Laboratorios / Prácticas:** 0
-- **Última Sesión Registrada:** [[Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1|Evolución Curricular, Machine Learning vs. Data Science y el Panorama de la IA Moderna (2026-07-13)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-20 - Sesión de INTELIGENCIA ARTIFICIAL 1|Sesión de INTELIGENCIA ARTIFICIAL 1 (2026-07-20)]]
 
 ---
 
@@ -27,6 +27,7 @@ actualizado: 2026-07-17T07:29:46
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
+| **2** | 2026-07-20 | `#Clase_Magistral` | **Sesión de INTELIGENCIA ARTIFICIAL 1** | — | [[Clase Magistral/2026-07-20 - Sesión de INTELIGENCIA ARTIFICIAL 1\|Ver Apunte]] |
 | **1** | 2026-07-13 | `#Clase_Magistral` | **Evolución Curricular, Machine Learning vs. Data Science y el Panorama de la IA Moderna** | — | [[Clase Magistral/2026-07-13 - Sesión de INTELIGENCIA ARTIFICIAL 1\|Ver Apunte]] |
 
 ---
