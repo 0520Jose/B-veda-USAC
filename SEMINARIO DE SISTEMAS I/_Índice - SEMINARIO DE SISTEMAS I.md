@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-20T05:33:44
+actualizado: 2026-07-21T09:41:42
 ---
 
 # Índice General de Apuntes: SEMINARIO DE SISTEMAS I

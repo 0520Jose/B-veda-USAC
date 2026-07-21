@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-14
-actualizado: 2026-07-20T05:33:44
+actualizado: 2026-07-21T09:46:00
 ---
 
 # Índice General de Apuntes: SISTEMAS ORGANIZACIONALES Y GERENCIALES 1
@@ -16,10 +16,10 @@ actualizado: 2026-07-20T05:33:44
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **1**
+- **Total de Sesiones Registradas:** **2**
 - **Clases Magistrales:** 0
-- **Laboratorios / Prácticas:** 1
-- **Última Sesión Registrada:** [[Laboratorio/2026-07-14 - Sesión del 13_7_2026|Presentación, Programa del Curso y Tecnologías Empresariales (2026-07-14)]]
+- **Laboratorios / Prácticas:** 2
+- **Última Sesión Registrada:** [[Laboratorio/2026-07-21 - Sesiòn del 21_7_2026|Sistemas de Información, Clasificación y Desafíos Organizacionales (2026-07-21)]]
 
 ---
 
@@ -27,7 +27,8 @@ actualizado: 2026-07-20T05:33:44
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **1** | 2026-07-14 | `#Laboratorio` | **Presentación, Programa del Curso y Tecnologías Empresariales** | — | [[Laboratorio/2026-07-14 - Sesión del 13_7_2026\|Ver Apunte]] |
+| **1** | 2026-07-14 | `#Laboratorio` | **Presentación, Programa del Curso y Tecnologías Empresariales** | Visión general del curso y conceptos introductorios | [[Laboratorio/2026-07-14 - Sesión del 13_7_2026\|Ver Apunte]] |
+| **2** | 2026-07-21 | `#Laboratorio` | **Sistemas de Información, Clasificación y Desafíos Organizacionales** | Tipología de sistemas empresariales, clasificación de información y tendencias | [[Laboratorio/2026-07-21 - Sesiòn del 21_7_2026\|Ver Apunte]] |
 
 ---
 
