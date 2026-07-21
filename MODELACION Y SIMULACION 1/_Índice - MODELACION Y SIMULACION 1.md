@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-21T09:42:35
+actualizado: 2026-07-21T10:40:00
 ---
 
 # Índice General de Apuntes: MODELACION Y SIMULACION 1

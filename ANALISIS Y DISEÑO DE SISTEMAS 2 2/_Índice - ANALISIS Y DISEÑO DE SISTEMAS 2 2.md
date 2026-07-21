@@ -16,10 +16,10 @@ actualizado: 2026-07-21T09:41:42
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **3**
-- **Clases Magistrales:** 2
+- **Total de Sesiones Registradas:** **4**
+- **Clases Magistrales:** 3
 - **Laboratorios / Prácticas:** 1
-- **Última Sesión Registrada:** [[Laboratorio/2026-07-17 - Sesión del 16_7_2026|Normativa de Laboratorio, Repaso de Ingeniería de Requerimientos y Catálogo Arquitectónico (2026-07-17)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-21 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2|Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2 (2026-07-21)]]
 
 ---
 
@@ -27,6 +27,7 @@ actualizado: 2026-07-21T09:41:42
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
+| **4** | 2026-07-21 | `#Clase_Magistral` | **Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2** | — | [[Clase Magistral/2026-07-21 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2\|Ver Apunte]] |
 | **3** | 2026-07-17 | `#Laboratorio` | **Normativa de Laboratorio, Repaso de Ingeniería de Requerimientos y Catálogo Arquitectónico** | — | [[Laboratorio/2026-07-17 - Sesión del 16_7_2026\|Ver Apunte]] |
 | **2** | 2026-07-16 | `#Clase_Magistral` | **Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2** | — | [[Clase Magistral/2026-07-16 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2\|Ver Apunte]] |
 | **1** | 2026-07-14 | `#Clase_Magistral` | **Introducción a la Ingeniería de Software, Evolución de la Computación y Metodología del Curso** | — | [[Clase Magistral/2026-07-14 - Sesión de ANALISIS Y DISEÑO DE SISTEMAS 2 2\|Ver Apunte]] |
