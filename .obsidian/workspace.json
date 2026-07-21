@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6837d011c1f7ceec",
+        "id": "e23d8cdce9e1f1c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a08b0f6795255be",
+            "id": "11c6c8dd8bf5d1b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9a08b0f6795255be",
+  "active": "11c6c8dd8bf5d1b5",
   "lastOpenFiles": [
+    "REDES DE COMPUTADORAS 2/Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2.md",
     "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Laboratorio/2026-07-14 - Sesión del 13_7_2026.md",
     "MODELACION Y SIMULACION 1/Laboratorio/2026-07-18 - Sesión del 17_7_2026.md",
     "MODELACION Y SIMULACION 1/Laboratorio",
@@ -198,7 +199,6 @@
     "Lab SEMINARIO DE SISTEMAS I/_Índice - Lab SEMINARIO DE SISTEMAS I.md",
     "Lab SEMINARIO DE SISTEMAS I/Laboratorio",
     "Lab SEMINARIO DE SISTEMAS I",
-    "REDES DE COMPUTADORAS 2/Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2.md",
     "REDES DE COMPUTADORAS 2/_Índice - REDES DE COMPUTADORAS 2.md",
     "REDES DE COMPUTADORAS 2/Clase Magistral",
     "REDES DE COMPUTADORAS 2",
