@@ -11,10 +11,10 @@
             "id": "4004f78616672257",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "4004f78616672257",
   "lastOpenFiles": [
+    "REDES DE COMPUTADORAS 2/Clase Magistral/2026-07-22 - Sesión del 21_7_2026.md",
+    "SEMINARIO DE SISTEMAS I/Laboratorio/2026-07-22 - Sesión del 21_7_2026.md",
     "MODELACION Y SIMULACION 1/Clase Magistral/2026-07-21 - Sesión de MODELACION Y SIMULACION 1.md",
     "check_links_accurate.py",
     "check_indexes.py",
@@ -212,7 +214,6 @@
     "INTELIGENCIA ARTIFICIAL 1/PROMPT_ANTIGRAVITY_RESUMEN.md",
     "Curso General/Clase Magistral/2026-07-13 - 1. Título Descriptivo y Formal.md",
     "ANALISIS Y DISEÑO DE SISTEMAS 2 2/Clase Magistral/2026-07-13 - 1..md",
-    "Curso General/_Índice - Curso General.md",
-    "SISTEMAS ORGANIZACIONALES Y GERENCIALES 1/Clase Magistral/2026-07-12 - Título_Primer Tema.md"
+    "Curso General/_Índice - Curso General.md"
   ]
 }
