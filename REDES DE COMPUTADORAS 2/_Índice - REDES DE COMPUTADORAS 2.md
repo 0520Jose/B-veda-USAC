@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-21T09:41:42
+actualizado: 2026-07-24T06:05:33
 ---
 
 # Índice General de Apuntes: REDES DE COMPUTADORAS 2
@@ -16,10 +16,10 @@ actualizado: 2026-07-21T09:41:42
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **2**
-- **Clases Magistrales:** 2
+- **Total de Sesiones Registradas:** **3**
+- **Clases Magistrales:** 3
 - **Laboratorios / Prácticas:** 0
-- **Última Sesión Registrada:** [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2|Protocolos de Enrutamiento, Modelo OSI, TCP/UDP y Diagnóstico por Capas (2026-07-16)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-22 - Sesión del 21_7_2026|Sesión del 21/7/2026 (2026-07-22)]]
 
 ---
 
@@ -27,6 +27,7 @@ actualizado: 2026-07-21T09:41:42
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
+| **3** | 2026-07-22 | `#Clase_Magistral` | **Sesión del 21/7/2026** | — | [[Clase Magistral/2026-07-22 - Sesión del 21_7_2026\|Ver Apunte]] |
 | **2** | 2026-07-16 | `#Clase_Magistral` | **Protocolos de Enrutamiento, Modelo OSI, TCP/UDP y Diagnóstico por Capas** | — | [[Clase Magistral/2026-07-16 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
 | **1** | 2026-07-15 | `#Clase_Magistral` | **Introducción al Curso y Repaso del Modelo OSI** | — | [[Clase Magistral/2026-07-15 - Sesión de REDES DE COMPUTADORAS 2\|Ver Apunte]] |
 

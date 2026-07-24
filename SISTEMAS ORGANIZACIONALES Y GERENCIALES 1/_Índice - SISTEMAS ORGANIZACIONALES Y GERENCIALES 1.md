@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-14
-actualizado: 2026-07-21T09:46:00
+actualizado: 2026-07-24T06:05:33
 ---
 
 # Índice General de Apuntes: SISTEMAS ORGANIZACIONALES Y GERENCIALES 1
@@ -27,8 +27,8 @@ actualizado: 2026-07-21T09:46:00
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **1** | 2026-07-14 | `#Laboratorio` | **Presentación, Programa del Curso y Tecnologías Empresariales** | Visión general del curso y conceptos introductorios | [[Laboratorio/2026-07-14 - Sesión del 13_7_2026\|Ver Apunte]] |
-| **2** | 2026-07-21 | `#Laboratorio` | **Sistemas de Información, Clasificación y Desafíos Organizacionales** | Tipología de sistemas empresariales, clasificación de información y tendencias | [[Laboratorio/2026-07-21 - Sesiòn del 21_7_2026\|Ver Apunte]] |
+| **2** | 2026-07-21 | `#Laboratorio` | **Sistemas de Información, Clasificación y Desafíos Organizacionales** | — | [[Laboratorio/2026-07-21 - Sesiòn del 21_7_2026\|Ver Apunte]] |
+| **1** | 2026-07-14 | `#Laboratorio` | **Presentación, Programa del Curso y Tecnologías Empresariales** | — | [[Laboratorio/2026-07-14 - Sesión del 13_7_2026\|Ver Apunte]] |
 
 ---
 

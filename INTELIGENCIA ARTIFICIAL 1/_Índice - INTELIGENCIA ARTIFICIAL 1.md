@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-14
-actualizado: 2026-07-21T09:41:42
+actualizado: 2026-07-24T06:05:33
 ---
 
 # Índice General de Apuntes: INTELIGENCIA ARTIFICIAL 1

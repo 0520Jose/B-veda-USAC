@@ -5,7 +5,7 @@ tags:
   - devschedule
   - indice_curso
 creado: 2026-07-15
-actualizado: 2026-07-22T18:50:36
+actualizado: 2026-07-24T08:50:30
 ---
 
 # Índice General de Apuntes: SEMINARIO DE SISTEMAS I
@@ -16,10 +16,10 @@ actualizado: 2026-07-22T18:50:36
 ---
 
 ## Resumen Estadístico del Curso
-- **Total de Sesiones Registradas:** **2**
-- **Clases Magistrales:** 0
+- **Total de Sesiones Registradas:** **3**
+- **Clases Magistrales:** 1
 - **Laboratorios / Prácticas:** 2
-- **Última Sesión Registrada:** [[Laboratorio/2026-07-22 - Sesión del 21_7_2026|Sesión del 21/7/2026 (2026-07-22)]]
+- **Última Sesión Registrada:** [[Clase Magistral/2026-07-24 - Sesión de SEMINARIO DE SISTEMAS I|Sesión de SEMINARIO DE SISTEMAS I (2026-07-24)]]
 
 ---
 
@@ -27,7 +27,8 @@ actualizado: 2026-07-22T18:50:36
 
 | # | Fecha | Tipo de Sesión | Tema o Título de la Sesión | Resumen AI | Enlace al Apunte |
 |---|---|---|---|---|---|
-| **2** | 2026-07-22 | `#Laboratorio` | **Sesión del 21/7/2026** | — | [[Laboratorio/2026-07-22 - Sesión del 21_7_2026\|Ver Apunte]] |
+| **3** | 2026-07-24 | `#Clase_Magistral` | **Sesión de SEMINARIO DE SISTEMAS I** | — | [[Clase Magistral/2026-07-24 - Sesión de SEMINARIO DE SISTEMAS I\|Ver Apunte]] |
+| **2** | 2026-07-22 | `#Laboratorio` | **Sesión de SEMINARIO DE SISTEMAS I** | — | [[Laboratorio/2026-07-22 - Sesión de SEMINARIO DE SISTEMAS I\|Ver Apunte]] |
 | **1** | 2026-07-15 | `#Laboratorio` | **Introducción a la Computación en la Nube y Planificación del Laboratorio** | — | [[Laboratorio/2026-07-15 - Sesión del 14_7_2026\|Ver Apunte]] |
 
 ---
